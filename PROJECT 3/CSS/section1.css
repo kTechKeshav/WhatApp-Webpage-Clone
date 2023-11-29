@@ -1,0 +1,55 @@
+/* CSS of Section Area starts */
+section{
+    display: flex;
+    justify-content: center;
+    margin-top: 55px;
+    /* border: 2px solid black; */
+    height: 600px;
+}
+
+.content{
+    display: flex;
+}
+
+.block{
+    /* border: 2px solid blue; */
+    margin: 10px;
+    
+}
+
+#block1{
+    margin: 30px 187px 0px 144px;
+    padding: 24px 86px 78px 121px;
+}
+
+
+#block1 div{
+    margin: 10px 10px;
+    padding: 10px 10px;
+}
+
+#block1 ul{
+    color: #1CB39B;
+    font-size: 20px;
+}
+#block1 ul li{
+    margin: 8px;
+    padding: 8px;
+}
+#block1 ul li:hover{
+    cursor: pointer;
+    color: black;
+    border-radius: 15px;
+    border: 2px solid red;
+    background-color: blanchedalmond;
+}
+
+#block2{
+    margin: 11px 239px 0px -147px;
+    padding: 5px 0px 3px 7px;
+}
+
+#block2 img{
+    height: 573px;
+    width: auto;
+}

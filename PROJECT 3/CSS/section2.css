@@ -1,0 +1,89 @@
+/* CSS for section 2 */
+
+.area{
+    display: flex;
+    width: auto;
+    height: 871px;
+    /* border: 2px solid black; */
+}
+
+.A{
+    /* border: 3px solid pink; */
+    text-align: center;
+}
+
+/* CSS related to Area 1 */
+#area1{
+    width: 50%;
+    background-color: #D8E8EA;
+    margin: 0px 35px 0px 0px;
+    padding: 76px 61px 0px 59px;
+}
+
+#area1 p{
+    margin: 10px 10px;
+    padding: 10px 10px;
+    font-size: 20px;
+}
+#area1 p a{
+    color: #39b3ed;
+    text-decoration: none;
+}
+
+#area1 p a:hover{
+    text-decoration: underline;
+}
+
+#area1 p img{
+    margin-top: 73px;
+    width: 330px;
+    height: 362px;
+}
+
+/* CSS related to area 2 */
+#area2{
+    width: 50%;
+    background-color: #E7F0E4;
+    margin: 0px 0px 0px 0px;
+    padding: 76px 61px 0px 59px;
+}
+
+#con1 img{
+    width: 370px;
+    height: 370px;
+    /* border: 2px solid red; */
+}
+
+#con2 ul{
+    list-style: none;
+}
+
+#con2 div{
+    margin: 20px;
+    padding: 20px;
+}
+
+#stuf1{
+    padding-bottom: 5px;
+    color: #5E5E5E;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+#stuf2{
+    font-size: 20px;
+}
+
+.keshav{
+    color: #128c7e;
+    height: 20px;
+    margin: 23px 10px;
+    padding: 16px 28px;
+    margin-bottom: 40px;
+    display: flex;
+    border: 2px solid #77d7c8;
+    border-radius: 30px;
+}
+.keshav:hover{
+    cursor: pointer;
+}
